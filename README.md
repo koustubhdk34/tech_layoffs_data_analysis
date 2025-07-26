@@ -35,6 +35,12 @@
 
 • This project provided valuable insights into global layoff trends, allowing me to apply essential data analysis skills such as data cleaning, visualization, and interpretation. By examining patterns across industries, locations, and timeframes, I gained a deeper understanding of economic and business shifts that impact employment. It also strengthened my ability to work with real-world datasets and communicate findings effectively.
 
+
+### 📈 Dashboard Overview
+![Dashboard](tech_layoffs_data_analysis/Dashboards/Dashboard_preview.png)
+
+
+
 ## 📊 Visualizations
 
 ### 1. Layoffs by Country
